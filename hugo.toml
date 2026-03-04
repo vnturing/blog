@@ -6,8 +6,6 @@ theme = 'typo'
 [params]
 # Meta description
 description = "Exploring the intersection of society and technology, through a philosophical lense."
-
-[params]
 rss = true
 
 # Appearance settings
@@ -27,8 +25,13 @@ homeCollection = 'posts'
 
 # Lists parameters
 paginationSize = 100
-listSummaries = true
 listDateFormat = '2 Jan 2006'
+
+footerContent = """
+&copy; 2026 Turing Complete \\
+Any opinions listed here are my own and not representative of any of my employers, past and/or present. \\
+Powered by [Hugo](https://gohugo.io) and [Typo](https://github.com/tomfran/typo)
+"""
 
 # Breadcrumbs
 [params.breadcrumbs]
@@ -62,3 +65,13 @@ noClasses = false
 [caches]
 [caches.images]
 dir = ':cacheDir/images'
+
+[params.umami]
+enable = true
+websiteId = '1f65872c-f35e-44fb-97a8-243bb04eb53d'
+jsLocation = 'https://cloud.umami.is/script.js'
+
+
+[[params.social]]
+name = "rss"
+url = "/index.xml"

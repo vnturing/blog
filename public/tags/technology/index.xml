@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Turing Complete</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Turing Complete</description>
+    <title>Technology on Turing Complete</title>
+    <link>http://localhost:1313/tags/technology/</link>
+    <description>Recent content in Technology on Turing Complete</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The AI Coding Velocity Trap</title>
       <link>http://localhost:1313/posts/the-velocity-trap/</link>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/the-velocity-trap/</guid>
       <description>&lt;h2 class=&#34;heading&#34; id=&#34;intro&#34;&gt;&#xA;  Intro&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#intro&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Ever since the supposed &lt;em&gt;&amp;ldquo;AI coding inflection point&amp;rdquo;&lt;/em&gt; in November 2025, everyone&amp;rsquo;s been moving fast. There&amp;rsquo;s been a wave of Substack think pieces, tweets, and LinkedIn posts about how productive everyone has become thanks to the democratisation of software development. Apparently &lt;a href=&#34;https://www.citriniresearch.com/p/2028gic#:~:text=A%20competent%20developer%20working%20with%20Claude%20Code%20or%20Codex%20could%20now%20replicate%20the%20core%20functionality%20of%20a%20mid%2Dmarket%20SaaS%20product%20in%20weeks%2E&#34;&gt;anyone can build anything&lt;/a&gt; now. We&amp;rsquo;re entering a new golden age of productivity.&lt;/p&gt;&#xA;&lt;p&gt;But, to what end?&lt;/p&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;if-ai-works-as-advertised&#34;&gt;&#xA;  If AI Works As Advertised&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#if-ai-works-as-advertised&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s assume, for a second, that AI coding tools can match the hype. In this world, Claude Code, Copilot, Cursor, etc. are all genuinely transformative tools. They crush bugs that used to take days in hours, ship complex features in an afternoon, and so on. Junior developers with an AI subscription are shipping code at the pace of an experienced senior engineer.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h1 class=&#34;heading&#34; id=&#34;about&#34;&gt;&#xA;  About&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#about&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;A place to explore and possibly establish technology&amp;rsquo;s place in a human-centric world.&lt;/p&gt;&#xA;&lt;p&gt;Because, apparently, &lt;a href=&#34;https://www.youtube.com/watch?v=CujJ74iC41c&#34;&gt;Sam Altman thinks&lt;/a&gt; we can compare the energy cost of raising a human to that of training AI.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
