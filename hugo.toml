@@ -68,7 +68,7 @@ dir = ':cacheDir/images'
 
 [params.umami]
 enable = true
-websiteId = '1f65872c-f35e-44fb-97a8-243bb04eb53d'
+websiteId = '8a6a94c5-a023-4dda-8b06-9687f09b5010'
 jsLocation = 'https://cloud.umami.is/script.js'
 
 
