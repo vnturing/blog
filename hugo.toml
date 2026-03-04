@@ -5,7 +5,10 @@ theme = 'typo'
 
 [params]
 # Meta description
-description = "A Tech Blog"
+description = "Exploring the intersection of society and technology, through a philosophical lense."
+
+[params]
+rss = true
 
 # Appearance settings
 theme = 'auto'
