@@ -1,6 +1,6 @@
 +++
 title = 'Code is still a liability'
-description = 'The more code your team produces, the more code your team must maintai.'
+description = 'The more code your team produces, the more code your team must maintain.'
 date = 2026-03-09
 tags = [ "technology", "AI", "software development", ]
 draft = false
